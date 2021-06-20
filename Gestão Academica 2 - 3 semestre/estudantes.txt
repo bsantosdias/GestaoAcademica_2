@@ -1,0 +1,3 @@
+10160091:Marco	Antônio:marco@gmail.com:GRAD:30
+51155082:Fábio	Lopes:fabiot@hotmail.com:POS:Engenharia	de	Dados:Maria	Marcondes
+78124981:Ana	Clara:aninha@email.br:GRAD:40
