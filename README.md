@@ -1,2 +1,3 @@
 # GestaoAcademica_2
-Projeto criado no terceiro semestre do curso de TADS para treinar classes, coleções de objetos, herança e classes abstratas. 
+
+Assim como a primeira versão, o propósito do projeto é criar um programa que lê arquivos com as informações dos estudantes, disciplinas e matrículas; armazene as informações em Lists diferentes e relacione as Lists. Agora com a adição de classes abstratas. 
